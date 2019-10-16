@@ -27,7 +27,8 @@ class Board extends React.Component{
         return <Square value ={i} />;
     }
 
-
+//test
+//tkjkjsfkjg
 
 render()
 {
@@ -60,7 +61,7 @@ return(
 );
 }
 }
-
+//game component
 class Game extends React.Component {
     render(){
         return(
